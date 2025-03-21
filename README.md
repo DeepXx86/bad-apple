@@ -6,4 +6,4 @@
 
 <video src="images/video.mp4" width="320" height="240" controls></video>
 
-![non working video](untitle.mp4)
+![](untitle.mp4)
