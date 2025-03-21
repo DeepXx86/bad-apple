@@ -1,3 +1,3 @@
 ### Simple code to run Bad Apple in Haskell 🥱🥱
 
-![Uploading untitle.gif…]()
+![[untitle.gif](https://github.com/DeepXx86/bad-apple/blob/main/untitle.gif)]()
